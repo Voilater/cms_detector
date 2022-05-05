@@ -5,11 +5,11 @@
   </code>
   
   
-  <code> pip3 install -r requirement.txt
-  </code>
-
 <code>cd cms_detector
   </code>
   
+  <code> pip3 install -r requirement.txt
+  </code>
+
   <code>python3 whatcms.py
   </code>
